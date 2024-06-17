@@ -1,0 +1,138 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box ;
+    }
+
+body{
+background-image: url("img/he.png");
+min-height: 150vh;
+ }
+ header{
+    background-color: rgb(94, 0, 0);
+    height: 4%;
+    width: 100%;
+ }
+ .morde {
+    height: 4%;
+    width: 5%;
+    margin-left: 47%;
+ }
+
+ .container {
+    
+ display: flex;
+ margin-bottom: 5%;
+    
+ }
+ .container p{
+    font-size: 20px;
+  
+    background-color: pink;
+    
+    text-shadow: none;
+    text-align: justify;
+    position: relative;
+  display: inline-block;  
+ }
+ 
+ #tinh{
+    font-size: 70px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-weight: bolder;
+    margin: 4%;
+    color: rgb(120, 0, 145);
+   -webkit-text-stroke: 1px black;
+   text-shadow: 
+   5px 5px 2px rgb(194, 0, 233);
+
+ }
+ .container h1{
+ background-color: rgb(238, 3, 160);
+ font-size: 30px    ;
+ }
+
+.container img{
+margin-left: 0%;
+height: 240px;
+width: 20%;
+margin-left: 2%;
+background-color: pink;
+     
+}
+#tina{
+    background-color: rgb(252, 0, 197);
+    text-align: center;
+}
+
+.oi{
+    display:flex;
+}
+.oi img{
+    height: 300px;
+    width: 20%;
+    font-size: 24px;
+}
+.oi p{
+    font-size: 25px ;
+   background-color: pink;
+}
+.video{
+    display:flex;
+   margin-top: 10%;
+}
+.video img{
+    height: 500px;
+    width: 40%;
+}
+.video p{
+    font-size: 25px ;
+   background-color: pink;
+}
+.ii{
+    display:flex;
+   margin-top: 10%;
+}
+.ii img{
+    height: 300px;
+    width: 20%;
+}
+.ii p{
+    font-size: 25px ;
+   background-color: pink;
+}
+.fim{
+    display:flex;
+   margin-top: 10%;
+}
+.fim img{
+    height: 300px;
+    width: 15%;
+}
+.fim p{
+    font-size: 25px ;
+   background-color: pink;
+}
+.uii img{
+    height: 400px;
+    width: 100%;
+
+}
+footer {
+    background-color: rgb(63, 63, 63);
+   width: 100%;
+   color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 4%;
+}
+
+.footer-content {
+    justify-content: center;
+    margin: 3%;
+    align-items: center;
+    
+
+}

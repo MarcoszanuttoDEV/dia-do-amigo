@@ -1,0 +1,29 @@
+<h1 id="tinh"> Vitor</h1>
+
+ .container h1{
+ background-color: rgb(238, 3, 160);
+ font-size: 30px    ;
+ }
+
+
+
+    width: 100%;  
+   display: inline-block;
+    font-size:30px;
+    font-family:'Courier New', Courier, monospace; 
+    font-weight: bold;
+    margin: 7%;
+    margin-left: 0%;
+    text-shadow:    
+    2px 2px 3px rgb(0, 0, 0);
+    background-color: pink  ;
+     .container p{
+    font-size: 20px;
+    font-family: ;
+    font-weight: ;
+    background-color: pink;
+    text-shadow: none;
+    text-align: right;
+    position: relative;
+  display: inline-block;  
+ }
